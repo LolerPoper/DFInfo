@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\bin\Debug\DFInfo.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\bin\Debug\DFInfo.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\bin\Debug\DFInfo.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\obj\Debug\DFInfo.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\obj\Debug\DFInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\obj\Debug\DFInfo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\obj\Debug\DFInfo.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DFInfo\obj\Debug\DFInfo.pdb
